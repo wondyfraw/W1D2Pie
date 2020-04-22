@@ -2,6 +2,8 @@
 
 body{
      background-image: url("/W1D2Pie/image/silverware.jpg");
+    background-attachment: fixed;
+    background-repeat: repeat-x, repeat-y;
 }
 
 .mainHeading{
