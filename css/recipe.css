@@ -1,5 +1,9 @@
 /* main css */
 
+body{
+     background-image: url("/W1D2Pie/image/silverware.jpg");
+}
+
 .mainHeading{
     color:#A4A400 ;
     background-color: #F0F0F0;
