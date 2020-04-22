@@ -42,3 +42,6 @@ body{
 a{
     color: #A4A400;
 }
+.listStyle{
+    list-style-image: url('/W1D2Pie/image/pie_icon.gif');
+}
